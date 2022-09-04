@@ -3,7 +3,7 @@
 <h1 align="center">Wahatsapp Bot</h1>
 <p align="center">
 
-<div align="center"><img src="https://raw.githubusercontent.com/BOTCAHX/RT-X-MD/v3.0/gifs-de-auditoria-23.gif"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/BOTCAHX/RTXZY-MD/v3.0/gifs-de-auditoria-23.gif"></div>
 </p>
 <h1 align="center">Kasih Star Biar Semangat Recode Nya:v</h1>
 
