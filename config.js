@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6282221792667', 'ePro || RtXzy', true]
+  ['6285706735450', 'verdixyz || Xziro', true]
   // [owner bukan bot!]
 ] // paste nomor di sini
 global.mods = [] // bantuan?
@@ -20,7 +20,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Wm untuk stiker
-global.packname = 'ePro Rtxzy'
+global.packname = 'verdixyz'
 global.author = '© DayDay Happy'
 
 global.multiplier = 70 // Semakin Tinggi levelmu semakin naik
