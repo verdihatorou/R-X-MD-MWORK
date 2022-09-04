@@ -56,16 +56,8 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 
 ## Information
 
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
-
-> Telah dilakukan pengoptimalan kinerja bot dengan menghapus button mengganggu berjalan nya bot
-
->  Kalo Erorr apikey nya beli atau ganti sendiri aja ya 
-
-> Masih Tahap Pengembangan v.3.0
-
-> Untuk file session ada di sessiontxzy.data.json, kalo mau run termux hapus terlebih dahulu file tersebut.
-
+> Untuk sessions ada saat kamu sudah run di heroku 
+> scan kode qr di heroku dengan cara open app setelah run
 ## Join Group Diskusi
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL) 
 **Markas Para Bot**
