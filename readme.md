@@ -96,11 +96,6 @@ Simple WhatsApp Bot
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%BOTCAHX%RT-X-MD)
 
-# get Session 
-> get session with scan qr in this module
-
-> [![Session Wahatsapp.web(for get Sessions )](https://repl.it/badge/github/quiec/whatsAlfa)](https://github.com/BOTCAHX/Session-Md)
-
 ## FOR OKTETO
 
 * Okteto [`Click Here go to website`](https://okteto.com)
