@@ -1,0 +1,3 @@
+ini script work jadi bot
+sebelum ya ini kalo mau sqan di heroku yah sessi ya sqan di heroku
+kalo dah kesambung sc ini di lenkapi fitur jadibot
