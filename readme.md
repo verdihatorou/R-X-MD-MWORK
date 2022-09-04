@@ -53,6 +53,7 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 ![github](https://img.shields.io/badge/github-43853D?style=for-the-badge&logo=github&logoColor=white)
 ![Apikey](https://img.shields.io/badge/apikey-43853D?style=for-the-badge&logo=apikey&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-43853D?style=for-the-badge&logo=WhatsApp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)
 
 ## Information
 
